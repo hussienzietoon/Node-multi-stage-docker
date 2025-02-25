@@ -1,0 +1,14 @@
+{
+    "name": "node-multi-stage",
+    "version": "1.0.0",
+    "description": "A simple Node.js app to test Docker multi-stage builds",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+
+    }
+  }
+  
