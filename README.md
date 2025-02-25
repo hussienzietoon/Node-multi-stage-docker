@@ -11,7 +11,7 @@ This is a simple Node.js application that uses a **multi-stage Docker build** fo
 
 ### **1️⃣ Clone the Repository**
 
-git clone https://github.com/YOUR_USERNAME/nodejs-multi-stage-docker-app.git
+git clone git@github.com:hussienzietoon/Node-multi-stage-docker.git
 cd nodejs-multi-stage-docker-app
 
 ### ** 2️⃣ Build and Run with Docker
